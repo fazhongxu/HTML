@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.main {
+	height: 600px;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.main .course {
+	color: #FFB6C1;
+	position: relative;
+	left: 50%;
+	top: 260px;
+}
+
+.main .lock {
+	width: 100px;
+	background: #30A457;
+	height: 30px;
+	color: #FFFFFF;
+	border-radius: 8px;
+	text-align: center;
+	position: relative;
+	left: 45%;
+	top:285px;
+}
+
+.main .unlock {
+	width: 100px;
+	background: #008080;
+	height: 30px;
+	color: #FFFFFF;
+	border-radius: 8px;
+	text-align: center;
+	position: relative;
+	left: 45%;
+	top: 285px;
+}
+

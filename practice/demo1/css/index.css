@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+	height: auto;
+	width: 90%;
+	margin: 0 auto;
+}
+
+.header {
+    background: #EEEEEE;
+    width: 100%;
+    height: 200px;
+}
+.header .logo {
+	float:left;
+	line-height: 200px;
+	margin-left: 20px;
+}
+
+.header .nav {
+    float: right;
+    line-height: 25px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.header .nav ul li {
+    float: left;
+    list-style: none;
+    width: 80px;
+}
+
+.main {
+	background: #30A457;
+	height: 1000px;
+	width: 100%;
+	text-align: center;
+	line-height: 1000px;
+}
+
+.bottom {
+	background: #EEEEEE;
+	height: 100px;
+	width: 100%;
+	line-height: 100px;
+	text-align: center;
+}
